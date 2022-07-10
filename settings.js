@@ -55,23 +55,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285785694474'] //ur owner number
-global.ownername = "Jaka" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
-
+global.vcardowner = ['66855048169'] //ur owner number
+global.ownername = "น่าน/Nan" //ur owner name
+global.ytname = "YT: I'M NITSU" //ur yt chanel name
+global.socialm = "GitHub: JakaV1" //ur github or insta name
+global.location = "Thailand, Bangkok," //ur location
 //bot bomdy 
-global.owner = ['6285785694474']
-global.ownertag = '6285785694474' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['66855048169']
+global.ownertag = '66855048169' //ur tag number
+global.botname = 'Sakkarin-MD' //ur bot name
 global.linkz = "https://youtu.be/xn9RatOrbuI" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.websitex = "https://Instagram.com/itsme_nitsu" //ur website to be displayed
+global.botscript = 'ไม่มีเลย' //script link
+global.reactmoji = "🗿" //ur menu react emoji
+global.themeemoji = "🐦" //ur theme emoji
+global.packname = "Sakkarin-MD Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "Nan" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -80,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['66855048169'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -123,8 +122,8 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: 8,
+    monayawal: 100
 }
    global.rpg = {
    darahawal: 100,
